@@ -1,0 +1,16 @@
+{
+  "name": "prompt-enhancer",
+  "version": "1.0.0",
+  "description": "Rewrites any rough, vague, or weak prompt into a comprehensive, high-quality version that gets dramatically better results from any LLM.",
+  "author": {
+    "name": "Sunny",
+    "url": "https://github.com/YOUR_GITHUB_USERNAME"
+  },
+  "keywords": [
+    "prompt",
+    "prompt-engineering",
+    "productivity",
+    "llm",
+    "writing"
+  ]
+}

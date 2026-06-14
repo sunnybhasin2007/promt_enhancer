@@ -1,0 +1,27 @@
+{
+  "name": "claude-prompt-tools",
+  "version": "1.0.0",
+  "description": "A small collection of Claude skills for getting dramatically better results from any LLM. Starting with prompt-enhancer.",
+  "owner": {
+    "name": "Sunny",
+    "email": "YOUR_EMAIL@example.com",
+    "url": "https://github.com/YOUR_GITHUB_USERNAME"
+  },
+  "metadata": {
+    "description": "Prompt engineering skills for Claude. Turn rough prompts into expert-grade ones.",
+    "version": "1.0.0",
+    "pluginRoot": "./plugins"
+  },
+  "plugins": [
+    {
+      "name": "prompt-enhancer",
+      "source": "./plugins/prompt-enhancer",
+      "description": "Rewrites any rough, vague, or weak prompt into a comprehensive, high-quality version that gets dramatically better results from any LLM.",
+      "version": "1.0.0",
+      "category": "productivity",
+      "author": {
+        "name": "Sunny"
+      }
+    }
+  ]
+}
